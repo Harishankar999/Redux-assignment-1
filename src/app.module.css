@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+}
+
+.line{
+    text-decoration: line-through;
+}
+.navbar{
+    display: flex;
+    /* border: 1px solid red; */
+    height: 50px;
+    justify-content: space-evenly;
+    align-items: center;
+    background: linear-gradient(to right,  #1a9cdd 0%,#09eb05 100%);
+}
+.Link{
+    text-decoration: none;
+}
+.addbtn{
+    height: 31px;
+    width: 32px;
+}
+.input{
+    margin-top: 40px;
+    height: 25px;
+    width: 300px;
+}
+.tododata{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    width: 400px;
+    margin: auto;
+}
